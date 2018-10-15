@@ -20,6 +20,7 @@ window.onload = function () {
     }
 
     console.log(zipzap(8), ' => 12zip4zapzip78 , 8')
+    console.log(zipzap(8), ' => 12zip4zapzip , 6')
     console.log(zipzap(30), ' => 12zip4zapzip78zipzap11zip1314zip1617zip19zapzip2223zipzap26zip2829zip , 30')
 
 
