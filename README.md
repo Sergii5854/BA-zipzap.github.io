@@ -10,4 +10,4 @@
 
 
 
-### Link to: [view](https://github.com/Sergii5854/BA-zipzap.github.io/) .
+### Link to: [view](https://sergii5854.github.io/BA-zipzap.github.io/) .
